@@ -44,8 +44,8 @@ response= ["Please don't answer like an idiot...", "This question is easy...", "
 
 test_members= ["Nobody123#6440", "AllahDalla#3544"]
 
-anime_channel= 846443377624481793
-test_channel= 850566296567283735
+anime_channel= #channel id
+test_channel= #channel id
 
 message_to_dm= "Please to join us in today's stream.\n Hope you're free and ready to watch some anime."
 
@@ -164,4 +164,4 @@ async def private_message(ctx):
 #         print("Failed")
 
 # test("Thank-you Jesus")        
-client.run('ODQ5ODgzMzU3MjkzODM4Mzk2.YLhpjg.WZmC8dtnJJ1jjOaWHyCnR7bBgXI')
+client.run('#token string should go here')
